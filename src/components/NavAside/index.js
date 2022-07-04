@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import { Container } from './styles';
 
 const NavAside = () => {
   return (
-    <div>NavAside</div>
+    <Container>NavAside</Container>
   )
 }
 
